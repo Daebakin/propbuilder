@@ -8,3 +8,7 @@ assignees: ''
 ---
 
 **Paste your DeepSeek code below:**
+001 test/hello.php
+php
+<?php
+echo "Hello from GitHub Actions!";
